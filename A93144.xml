@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sr. Anthonie, St. Leger, his letter from aboard the Dovvnes, to Mr. Wareham Horsemanden, a Cavilier in Colchester, intercepted, and brought to the committee of Kent. Setting forth their true intentions towards the Scots, the turne-coate marriners, the Independents and the Roundheads. As also their ill opinions of the Dutch and French, because they answered not their desires in this designe.</title>
+            <author>Saint-Leger, Anthony, Sir, d. 1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93144</idno>
+            <idno type="STC">Wing S336</idno>
+            <idno type="STC">Thomason E461_3</idno>
+            <idno type="STC">ESTC R205156</idno>
+            <idno type="EEBO-CITATION">99864593</idno>
+            <idno type="PROQUEST">99864593</idno>
+            <idno type="VID">162158</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93144)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162158)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sr. Anthonie, St. Leger, his letter from aboard the Dovvnes, to Mr. Wareham Horsemanden, a Cavilier in Colchester, intercepted, and brought to the committee of Kent. Setting forth their true intentions towards the Scots, the turne-coate marriners, the Independents and the Roundheads. As also their ill opinions of the Dutch and French, because they answered not their desires in this designe.</title>
+                  <author>Saint-Leger, Anthony, Sir, d. 1680.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug ye 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162158:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>S<hi rend="sup">r</hi>. <hi>Anthonie,</hi> S<hi rend="sup">t</hi>. <hi>Leger,</hi> HIS LETTER From aboard the Dovvnes, to Mr. <hi>Wareham Horſemanden,</hi> a Cavilier in COLCHESTER, Intercepted, and brought to the Com<g ref="char:EOLhyphen"/>mittee of <hi>KENT.</hi>
+            </p>
+            <p>Setting forth their true intentions towards the <hi>Scots,</hi> the Turne-coate Marriners, the Indepen<g ref="char:EOLhyphen"/>dents and the Roundheads.</p>
+            <p>
+               <hi>AS ALSO</hi> Their ill opinions of the <hi>Dutch</hi> and <hi>French,</hi> becauſe they anſwered not their deſires in this deſigne.</p>
+            <p>Printed at <hi>London,</hi> 1648.</p>
+            <pb facs="tcp:162158:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:162158:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>Sir <hi>Anthony S<hi rend="sup">t</hi> Leger</hi> his LETTER.</head>
+            <opener>
+               <salute>Thrice noble Couſin,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou cannot think how much it joyes my heart, that any of my Kin will be ſo va<g ref="char:EOLhyphen"/>lourous; e'r long you ſhall ſee your Fa<g ref="char:EOLhyphen"/>ther a Biſhop, and that function as glo<g ref="char:EOLhyphen"/>rious as ever: As for thoſe that cowardly left you, they will be <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> as well as all the Independents and Roundheads; for all that have born Armes for this corrupt Parliament muſt be <gap reason="symbol" extent="1 letter">
+                  <desc>〈☐〉</desc>
+               </gap> and then, I doubt not but to have all our ancient Land as formerly, in whoſe hands ſoever it is: As for <hi>Hales,</hi> we have enough at him; ſpeak the Round<g ref="char:EOLhyphen"/>heads fair, and be kind to them till we have all as we would, and then have at all; take notice of all that run from you. Had not the drunken <hi>Dutch,</hi> and cowardly <hi>French</hi> deceived us, we had relieved you long ſince, and then a figg for the Treaty, yet it hath taken the beſt for us. A pox of the Scots, they have done us more hurt then good; they are crafty Rogues, but we will order them if we had <hi>England</hi> as we would. Many here are turn'd Cowards and Fooles, yet hang upon his Highneſs ſhamefully; we want money, that's the
+<pb n="4" facs="tcp:162158:3"/>
+               <!-- PDF PAGE 12 -->thing; we know not how to truſt thoſe turn coat Mariners; but his Highneſs will never forget their forwardneſs to aſſiſt the Parliament at firſt, we will reward them at laſt; the Rogues begin to grumble for want; <hi>J. P.</hi> is turned ſot, <hi>R. F.</hi> frenſie, <hi>N. C.</hi> coward; if we have not ſomething ſpeedily, or can Land, and have ſome to join with us, all is loſt; we can doe no conſiderable thing for the Caſtles: If you hold out you will be brave fellows; if black <hi>Tom</hi> and <hi>Noll</hi> were dead, all were our own; we drink your treble Health every day, I doubt not but you doe ſo by us; Laſt night my Maſter ſaid to me, Here is to Sir <hi>Warcham Horſmanden;</hi> This and more, and either Land or Office to main<g ref="char:EOLhyphen"/>tain it; my ſervice to the three Noble perſonages with you, Lords and Dukes at leaſt. However we ſpeed, our enemies are ſo disjointed they will never be knit again. Excuſe my haſte, that am ever</p>
+            <closer>
+               <dateline>
+                  <hi>From the</hi> Downes <date>
+                     <hi>the</hi> 15 <hi>of Auguſt,</hi> 1648.</date>
+               </dateline>
+               <signed>
+                  <hi>Your indulgent <g ref="char:V">Ʋ</g>nkle,</hi> while I am <hi>Anthony S<hi rend="sup">t</hi> Leger.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Promiſe Honor, Land, or Office, or any thing for our deſigne.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
